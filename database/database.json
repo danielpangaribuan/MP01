@@ -1,0 +1,358 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "UID": 123456,
+      "email": "admin@shiba.com",
+      "username": "admin",
+      "password": "shiba",
+      "role": 1
+    },
+    {
+      "UID": 1637845172263,
+      "username": "alee05",
+      "email": "alee@gmail.com",
+      "password": "alee_05",
+      "role": 2,
+      "id": 2
+    },
+    {
+      "UID": 1637845429306,
+      "username": "alex56",
+      "email": "alex56@gmail.com",
+      "password": "alex_56",
+      "role": 2,
+      "id": 3
+    },
+    {
+      "UID": 1637845681334,
+      "username": "leonardo98",
+      "email": "leonardo98@gmail.com",
+      "password": "leonardo_98",
+      "role": 2,
+      "id": 4
+    },
+    {
+      "UID": 1637847728090,
+      "username": "alee05",
+      "email": "alee05@gmail.com",
+      "password": "alee_05",
+      "role": 2,
+      "id": 5
+    },
+
+    {
+      "UID": 1642598656924,
+      "username": "test123",
+      "email": "test123@gmail.com",
+      "password": "@Test123",
+      "role": 2,
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pocket Crew Tees Green",
+      "category": "tees",
+      "material": "Cotton",
+      "weight": 0.25,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/pocket-crew-green/Pocket-Crew-Tees-Mineral-Green-1-510x510.jpg",
+        "/images/products/pocket-crew-green/Pocket-Crew-Tees-Mineral-Green-5-510x510.jpg",
+        "/images/products/pocket-crew-green/Pocket-Crew-Tees-Mineral-Green-510x510.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pocket Crew Tees Blue",
+      "category": "tees",
+      "material": "Cotton",
+      "weight": 0.25,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/pocket-crew-blue/Pocket-Crew-Tees-Steel-Blue-1-2-510x510.jpg",
+        "/images/products/pocket-crew-blue/Pocket-Crew-Tees-Steel-Blue-5-510x510.jpg",
+        "/images/products/pocket-crew-blue/Pocket-Crew-Tees-Steel-Blue-6-510x510.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pocket Crew Tees Cream",
+      "category": "tees",
+      "material": "Cotton",
+      "weight": 0.25,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/pocket-crew-cream/Pocket-Crew-Tees-Cream-1-510x510.jpg",
+        "/images/products/pocket-crew-cream/Pocket-Crew-Tees-Cream-5-510x510.jpg",
+        "/images/products/pocket-crew-cream/Pocket-Crew-Tees-Cream.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pocket Crew Tees Black",
+      "category": "tees",
+      "material": "Cotton",
+      "weight": 0.25,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/pocket-crew-black/Pocket-Crew-Tees-Black-1-3-510x510.jpg",
+        "/images/products/pocket-crew-black/Pocket-Crew-Tees-Black-1-5-510x510.jpg",
+        "/images/products/pocket-crew-black/Pocket-Crew-Tees-Black-1-6-510x510.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chino Army",
+      "category": "chino",
+      "material": "Cotton Twill Strecth",
+      "weight": 0.35,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/chino-army/chino-army-1-510x510.jpg",
+        "/images/products/chino-army/chino-army-3.jpg",
+        "/images/products/chino-army/chino-army-5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chino Grey",
+      "category": "chino",
+      "material": "Cotton Twill Strecth",
+      "weight": 0.35,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/chino-grey/chino-grey-1.jpeg",
+        "/images/products/chino-grey/chino-grey-3.jpeg",
+        "/images/products/chino-grey/chino-grey-4.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chino Khaki",
+      "category": "chino",
+      "material": "Cotton Twill Strecth",
+      "weight": 0.35,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/chino-khaki/chino-khaki-new-1.jpg",
+        "/images/products/chino-khaki/chino-khaki-new-3.jpg",
+        "/images/products/chino-khaki/chino-khaki-new-5.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chino Navy",
+      "category": "chino",
+      "material": "Cotton Twill Strecth",
+      "weight": 0.35,
+      "description": "Washing Instuction : Machine wash normal, iron with medium temperature, do not bleach.",
+      "images": [
+        "/images/products/chino-navy/chino-navy-1.jpg",
+        "/images/products/chino-navy/chino-navy-2.jpg",
+        "/images/products/chino-navy/chino-navy-5.jpg"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "productsId": 1,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "productsId": 2,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "productsId": 3,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "productsId": 4,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "productsId": 5,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "productsId": 6,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "productsId": 7,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "productsId": 8,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 3
+        }
+      ]
+    }
+  ],
+  "carousel": [
+    "/images/landing/carousel-01.jpg",
+    "/images/landing/carousel-02.jpg",
+    "/images/landing/carousel-03.jpg"
+  ],
+  "banner": [
+    "/images/banner/long-chino-banner.jpg",
+    "/images/banner/pocket-banner.jpg"
+  ],
+  "cart": [
+    {
+      "userUID": 123456,
+      "productId": "2",
+      "harga": 0,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "userUID": 123456,
+      "productId": 2,
+      "harga": 0,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "userUID": 123456,
+      "productId": 1,
+      "harga": 0,
+      "quantity": 3,
+      "id": 3
+    },
+    {
+      "userUID": 123456,
+      "productId": 1,
+      "harga": 0,
+      "quantity": 2,
+      "id": 4
+    },
+    {
+      "userUID": 123456,
+      "productId": 4,
+      "harga": 0,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "userUID": 123456,
+      "productId": 4,
+      "harga": 0,
+      "quantity": 1,
+      "id": 6
+    }
+  ]
+}

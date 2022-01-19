@@ -1,0 +1,19 @@
+.nav-container {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.0);
+    transition: all ease-in 200ms;
+    padding: 2% 5%;
+}
+
+.nav-container:hover {
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.nav-brand {
+    cursor: pointer;
+}
